@@ -62,6 +62,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 # **Work Experience**
 ### Bench Accounting
+![Bench Accounting](https://github.com/togmund/togmund.github.io/blob/master/images/bench-logo.png?raw=true)
 
 # **Interests**
 
