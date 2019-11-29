@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: /_layouts/custom
 ---
 
 # **Skills**
@@ -53,10 +53,10 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 
 # **Education**
-## Lighthouse Labs
+### Lighthouse Labs
 
 # **Work Experience**
-## Bench Accounting
+### Bench Accounting
 
 # **Interests**
 
