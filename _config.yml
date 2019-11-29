@@ -1,19 +1,4 @@
-layout: page
-permalink: /
+title: Ted Ogmundson
+logo: /assets/img/logo.png
+description: I'm Ted. A Rad Guy.
 theme: jekyll-theme-minimal
-title: togmund
-
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md

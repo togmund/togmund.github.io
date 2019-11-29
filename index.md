@@ -1,13 +1,8 @@
-# Ted Ogmundson
-
 ### **Contact**
 - togmund@gmail.com
 - 604-600-6867
 - [Github](https://github.com/togmund)
 - [LinkedIn](https://ca.linkedin.com/in/ted-ogmundson-1a9b47a)
-
-### **Summary**
-I'm Ted. A Rad Guy.
 
 ### **Skills**
 #### Languages
