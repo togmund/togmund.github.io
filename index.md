@@ -1,6 +1,13 @@
 ---
-layout: /_layouts/custom
+layout: default
 ---
+
+# **Contact**
+[togmund@gmail.com](togmund@gmail.com)
+
+604-600-6867
+
+[LinkedIn](https://ca.linkedin.com/in/ted-ogmundson-1a9b47a)
 
 # **Skills**
 #### Languages
@@ -31,6 +38,8 @@ layout: /_layouts/custom
 
 > Single Page App, a twitter clone, styled with custom CSS.
 
+![Desktop Navigation](https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif)
+
 ## Slack-MTGBot \| [github](https://github.com/MikeKlemarewski/slack-gamebot)
 
 `Ruby, Slack`
@@ -60,4 +69,8 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 # **Interests**
 
-Board Games, Live Music, Reading && Writing
+Board Games,
+
+Live Music,
+
+Reading && Writing
