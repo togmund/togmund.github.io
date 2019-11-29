@@ -3,10 +3,8 @@ layout: default
 ---
 
 # **Contact**
-[togmund@gmail.com](togmund@gmail.com)
-
+[togmund@gmail.com](mailto:togmund@gmail.com)
 604-600-6867
-
 [LinkedIn](https://ca.linkedin.com/in/ted-ogmundson-1a9b47a)
 
 # **Skills**
@@ -14,7 +12,7 @@ layout: default
 ```JavaScript, Ruby, HTML, CSS```
 
 #### Frameworks, Libraries, Environments
-```ReactJS, Rails, Node.JS Jquery, Ajax, Express, Bootstrap, Materialize```
+```ReactJS, Rails, Node.JS, Jquery, Ajax, Express, Bootstrap, Materialize```
 
 #### Databases & Systems
 ```PostgreSQL, Git```
@@ -54,7 +52,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > An AirBnB clone, with a complex 
 
-## TinyApp \| [github](https://github.com/togmund/tinyapp)
+## TinyApp \| [github](https://github.com/togmund/tiny-app)
 
 `JavaScript, Express, Ajax ...`
 
