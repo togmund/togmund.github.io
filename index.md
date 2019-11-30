@@ -75,19 +75,19 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
      style="width:270px;" />
 
 # **Education**
-
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.webp"
+     alt="Bench Accounting"
+     style="width:270px;" />](https://lighthouselabs.ca/)
 ## [Lighthouse Labs](https://lighthouselabs.ca/)
 
 `Full Stack Web Development Bootcamp`
 
 > Diploma January 2020
 
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.webp"
-     alt="Bench Accounting"
-     style="width:270px;" />](https://lighthouselabs.ca/)
-
 # **Work Experience**
-
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.webp"
+     alt="Bench Accounting"
+     style="width:270px;" />](https://bench.co/)
 ## [Bench Accounting](https://bench.co/)
 
 `Application Support Team Lead`
@@ -97,10 +97,6 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 `Techincal Analyst`
 > - Troubleshot the stuff
 > - More Stuff
-
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.webp"
-     alt="Bench Accounting"
-     style="width:270px;" />](https://bench.co/)
 
 # **Interests**
 
