@@ -96,11 +96,16 @@ ___
 
 `Application Support Team Lead`
 > - Created the Team
-> - More Stuff
+> - Developed, improved and automate the systems of providing support for our applications
+> - Advocated to product managers for features and improvements surfaced by users and provide context for departments and integration partners
+> - Set department goals, work with my team to iterate on those goals, and report on the efficacy of our department to provide value to the company
+> - Worked with engineers to identify trends in the inflow of application support work and the root causes of issues to reduce the impact of those problems on our users
 
 `Techincal Analyst`
-> - Troubleshot the stuff
-> - More Stuff
+> - Provided direct and second level support to the users of our applications and websites
+> - Updated documentation for users to self-resolve their issues and provide education for current users
+> - Took part in Hackathons, writing scripts in languages such as Python & SQL and designing applications as proofs of concept
+> - Rigorously diagnosed and documented issues in the logic and function of our applications written in a variety of languages, such as Scala & Javascript
 
 ___
 # **Interests**
