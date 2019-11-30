@@ -21,6 +21,10 @@ layout: default
 `JavaScript, Express, Ajax, Axios...`
 
 > Single Page App, a to-do list that smartly grabs the **best** item from your to-do list for you to do today based on who you're with and how much time you have.
+
+[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+     alt="Tweeter Example"
+     style="width:270px;" />](https://bench.co/)
   
 ## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler)
 
@@ -28,13 +32,19 @@ layout: default
 
 > A Single Page React application that allows users to book and cancel interviews.
 
+[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+     alt="Tweeter Example"
+     style="width:270px;" />](https://bench.co/)
+
 ## Tweeter \|\| [github](https://github.com/togmund/tweeter)
 
 `JQuery, CSS ...`
 
 > Single Page App, a twitter clone, styled with custom CSS.
 
-![Desktop Navigation](https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif)
+[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+     alt="Tweeter Example"
+     style="width:270px;" />](https://bench.co/)
 
 ## Slack-MTGBot \|\| [github](https://github.com/MikeKlemarewski/slack-gamebot)
 
@@ -50,28 +60,47 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > An AirBnB clone with a complex relational database structure.
 
+[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+     alt="Tweeter Example"
+     style="width:270px;" />](https://bench.co/)
+
 ## TinyApp \|\| [github](https://github.com/togmund/tiny-app)
 
 `JavaScript, Express, Ajax ...`
 
 > A multi-page-app for shortening urls and and sharing those shortened urls with friends.
 
+[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+     alt="Tweeter Example"
+     style="width:270px;" />](https://bench.co/)
 
 # **Education**
+
+## Lighthouse Labs
+
+`Full Stack Web Development Bootcamp`
+
+> Diploma January 2020
+
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png"
      alt="Bench Accounting"
      style="width:270px;" />](https://lighthouselabs.ca/)
-#### Full Stack Web Development Bootcamp
 
 # **Work Experience**
+
+## [Bench Accounting](https://bench.co/)
+
+`Application Support Team Lead`
+> - Created the Team
+> - More Stuff
+
+`Techincal Analyst`
+> - Troubleshot the stuff
+> - More Stuff
+
 [<img src="https://github.com/togmund/togmund.github.io/blob/master/images/bench-logo.png?raw=true"
      alt="Bench Accounting"
      style="width:270px;" />](https://bench.co/)
-#### Application Support Team Lead
-  - Created the Team
-
-#### Techincal Analyst
-  - Troubleshot the stuff
 
 # **Interests**
 
