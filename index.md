@@ -58,16 +58,19 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 
 # **Education**
-[![Lighthouse Labs](https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png)](https://lighthouselabs.ca/)
-## Lighthouse Labs
-### Full Stack Web Development Bootcamp
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png"
+     alt="Bench Accounting"
+     style="width:270px;" />](https://lighthouselabs.ca/)
+#### Full Stack Web Development Bootcamp
 
 # **Work Experience**
-[![Bench Accounting](https://github.com/togmund/togmund.github.io/blob/master/images/bench-logo.png?raw=true)](https://bench.co/)
-## Bench Accounting
-### Application Support Team Lead
+[<img src="https://github.com/togmund/togmund.github.io/blob/master/images/bench-logo.png?raw=true"
+     alt="Bench Accounting"
+     style="width:270px;" />](https://bench.co/)
+#### Application Support Team Lead
   - Created the Team
-### Techincal Analyst
+
+#### Techincal Analyst
   - Troubleshot the stuff
 
 # **Interests**
