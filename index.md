@@ -24,8 +24,8 @@ ___
 
 > Single Page App, a to-do list that smartly grabs the **best** item from your to-do list for you to do today based on who you're with and how much time you have.
 
-<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
-     alt="Tweeter Example"
+<img src="https://giphy.com/gifs/SVfWNGaC3LOu6PVIiN/html5"
+     alt="whattado Example"
      style="width:270px;" />
   
 ## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler)
