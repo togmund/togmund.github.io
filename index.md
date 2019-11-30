@@ -24,7 +24,7 @@ ___
 
 > Single Page App, a to-do list that smartly grabs the **best** item from your to-do list for you to do today based on who you're with and how much time you have.
 
-<img src="https://giphy.com/gifs/SVfWNGaC3LOu6PVIiN/html5"
+<img src="https://media.giphy.com/media/SVfWNGaC3LOu6PVIiN/giphy.gif"
      alt="whattado Example"
      style="width:270px;" />
   
