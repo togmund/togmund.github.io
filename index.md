@@ -22,9 +22,9 @@ layout: default
 
 > Single Page App, a to-do list that smartly grabs the **best** item from your to-do list for you to do today based on who you're with and how much time you have.
 
-[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
      alt="Tweeter Example"
-     style="width:270px;" />](https://bench.co/)
+     style="width:270px;" />
   
 ## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler)
 
@@ -32,9 +32,9 @@ layout: default
 
 > A Single Page React application that allows users to book and cancel interviews.
 
-[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
      alt="Tweeter Example"
-     style="width:270px;" />](https://bench.co/)
+     style="width:270px;" />
 
 ## Tweeter \|\| [github](https://github.com/togmund/tweeter)
 
@@ -42,9 +42,9 @@ layout: default
 
 > Single Page App, a twitter clone, styled with custom CSS.
 
-[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
      alt="Tweeter Example"
-     style="width:270px;" />](https://bench.co/)
+     style="width:270px;" />
 
 ## Slack-MTGBot \|\| [github](https://github.com/MikeKlemarewski/slack-gamebot)
 
@@ -60,9 +60,9 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > An AirBnB clone with a complex relational database structure.
 
-[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
      alt="Tweeter Example"
-     style="width:270px;" />](https://bench.co/)
+     style="width:270px;" />]
 
 ## TinyApp \|\| [github](https://github.com/togmund/tiny-app)
 
@@ -70,13 +70,13 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > A multi-page-app for shortening urls and and sharing those shortened urls with friends.
 
-[<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
+<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
      alt="Tweeter Example"
-     style="width:270px;" />](https://bench.co/)
+     style="width:270px;" />
 
 # **Education**
 
-## Lighthouse Labs
+## [Lighthouse Labs](https://lighthouselabs.ca/)
 
 `Full Stack Web Development Bootcamp`
 
