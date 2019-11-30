@@ -34,8 +34,8 @@ ___
 
 > A Single Page React application that allows users to book and cancel interviews.
 
-<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
-     alt="Tweeter Example"
+<img src="https://s3-us-west-2.amazonaws.com/reactv2/figures/9efcde3d-fc2b-4b07-a5d8-27165716f517.gif"
+     alt="InterviewScheduler Example"
      style="width:270px;" />
 
 ## Tweeter \|\| [github](https://github.com/togmund/tweeter)
