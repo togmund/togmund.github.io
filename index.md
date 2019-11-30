@@ -58,7 +58,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 
 # **Education**
-
+[![Lighthouse Labs](https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png)](https://lighthouselabs.ca/)
 ## Lighthouse Labs
 ### Full Stack Web Development Bootcamp
 
