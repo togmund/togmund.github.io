@@ -16,19 +16,19 @@ layout: default
 ```PostgreSQL, Git```
 
 # **Projects**
-## [**whattado**](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado)
+## [whattado](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado)
 
 `JavaScript, Express, Ajax, Axios...`
 
 > Single Page App, a to-do list that smartly grabs the **best** item from your to-do list for you to do today based on who you're with and how much time you have.
   
-## **InterviewScheduler** \|\| [github](https://github.com/togmund/scheduler)
+## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler)
 
 `React, Webpack, Babel, Axios, WebSockets, Storybook, Jest...`
 
 > A Single Page React application that allows users to book and cancel interviews.
 
-## **Tweeter** \|\| [github](https://github.com/togmund/tweeter)
+## Tweeter \|\| [github](https://github.com/togmund/tweeter)
 
 `JQuery, CSS ...`
 
@@ -36,7 +36,7 @@ layout: default
 
 ![Desktop Navigation](https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif)
 
-## **Slack-MTGBot** \|\| [github](https://github.com/MikeKlemarewski/slack-gamebot)
+## Slack-MTGBot \|\| [github](https://github.com/MikeKlemarewski/slack-gamebot)
 
 `Ruby, Slack`
 
@@ -44,13 +44,13 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > A Slack bot that manages the administration of a Magic: The Gathering league. It records wins and losses, ranks players by elo, then assigns and tracks 'credits' for each player which can be spent on new cards.
 
-## **LightBnB** \|\| [github](https://github.com/togmund/lightbnb)
+## LightBnB \|\| [github](https://github.com/togmund/lightbnb)
 
 `PostGres, Express, Ajax ...`
 
 > An AirBnB clone with a complex relational database structure.
 
-## **TinyApp** \|\| [github](https://github.com/togmund/tiny-app)
+## TinyApp \|\| [github](https://github.com/togmund/tiny-app)
 
 `JavaScript, Express, Ajax ...`
 
@@ -58,11 +58,17 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 
 # **Education**
-### Lighthouse Labs
+
+## Lighthouse Labs
+### Full Stack Web Development Bootcamp
 
 # **Work Experience**
-### Bench Accounting
-![Bench Accounting](https://github.com/togmund/togmund.github.io/blob/master/images/bench-logo.png?raw=true)
+[![Bench Accounting](https://github.com/togmund/togmund.github.io/blob/master/images/bench-logo.png?raw=true)](https://bench.co/)
+## Bench Accounting
+### Application Support Team Lead
+  - Created the Team
+### Techincal Analyst
+  - Troubleshot the stuff
 
 # **Interests**
 
