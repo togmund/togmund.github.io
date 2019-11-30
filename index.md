@@ -8,10 +8,10 @@ layout: default
 ___
 # **Skills**
 #### Languages
-```JavaScript, Ruby, HTML, CSS```
+```JavaScript, Python, Ruby, HTML, CSS```
 
 #### Frameworks, Libraries, Environments
-```ReactJS, Rails, Node.JS, Jquery, Ajax, Express, Jekyll, Bootstrap, Materialize```
+```ReactJS, Rails, Node.JS, Jquery, Ajax, Express, Bootstrap, Materialize```
 
 #### Databases & Systems
 ```PostgreSQL, Git```
@@ -30,7 +30,7 @@ ___
   
 ## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler)
 
-`React, Webpack, Babel, Axios, WebSockets, Storybook, Jest...`
+`JavaScript, React, Webpack, Babel, Axios, WebSockets, Storybook, Jest, PostgreSQL`
 
 > A Single Page React application that allows users to book and cancel interviews.
 
@@ -40,7 +40,7 @@ ___
 
 ## Tweeter \|\| [github](https://github.com/togmund/tweeter)
 
-`JQuery, CSS ...`
+`JavaScript, JQuery, CSS ...`
 
 > Single Page App, a twitter clone, styled with custom CSS.
 
@@ -78,6 +78,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 ___
 # **Education**
+
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.webp"
      alt="Bench Accounting"
      style="width:270px;" />](https://lighthouselabs.ca/)
@@ -89,6 +90,7 @@ ___
 
 ___
 # **Work Experience**
+
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.webp"
      alt="Bench Accounting"
      style="width:270px;" />](https://bench.co/)
@@ -105,7 +107,7 @@ ___
 > - Provided direct and second level support to the users of our applications and websites
 > - Updated documentation for users to self-resolve their issues and provide education for current users
 > - Took part in Hackathons, writing scripts in languages such as Python & SQL and designing applications as proofs of concept
-> - Rigorously diagnosed and documented issues in the logic and function of our applications written in a variety of languages, such as Scala & Javascript
+> - Rigorously diagnosed and documented issues in the logic and function of our applications written in a variety of languages, such as Scala & JavaScript
 
 ___
 # **Interests**
