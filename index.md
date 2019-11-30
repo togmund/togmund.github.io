@@ -82,7 +82,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > Diploma January 2020
 
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png"
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.webp"
      alt="Bench Accounting"
      style="width:270px;" />](https://lighthouselabs.ca/)
 
@@ -98,7 +98,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 > - Troubleshot the stuff
 > - More Stuff
 
-[<img src="https://github.com/togmund/togmund.github.io/blob/master/images/bench-logo.png?raw=true"
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.webp"
      alt="Bench Accounting"
      style="width:270px;" />](https://bench.co/)
 
