@@ -5,6 +5,7 @@ layout: default
 # **Contact**
 #### [togmund@gmail.com](mailto:togmund@gmail.com) \|\| 604-600-6867 \|\| [LinkedIn](https://ca.linkedin.com/in/ted-ogmundson-1a9b47a)
 
+___
 # **Skills**
 #### Languages
 ```JavaScript, Ruby, HTML, CSS```
@@ -15,6 +16,7 @@ layout: default
 #### Databases & Systems
 ```PostgreSQL, Git```
 
+___
 # **Projects**
 ## [whattado](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado)
 
@@ -74,6 +76,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
      alt="Tweeter Example"
      style="width:270px;" />
 
+___
 # **Education**
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.webp"
      alt="Bench Accounting"
@@ -84,6 +87,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > Diploma January 2020
 
+___
 # **Work Experience**
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.webp"
      alt="Bench Accounting"
@@ -98,6 +102,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 > - Troubleshot the stuff
 > - More Stuff
 
+___
 # **Interests**
 
 Board Games,
@@ -105,3 +110,5 @@ Board Games,
 Live Music,
 
 Reading && Writing
+
+___
