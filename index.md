@@ -72,8 +72,8 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > A multi-page-app for shortening urls and and sharing those shortened urls with friends.
 
-<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
-     alt="Tweeter Example"
+<img src="https://media.giphy.com/media/ggcUNJqBOlU3bp8Jv5/giphy.gif"
+     alt="TinyApp Example"
      style="width:270px;" />
 
 ___
