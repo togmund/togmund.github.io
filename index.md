@@ -16,7 +16,7 @@ layout: default
 
 #### Frameworks, Libraries, Environments
 
-`ReactJS, Node.JS, jQuery, Ajax, Express, Rails, Bootstrap, Materialize`
+`ReactJS, Node.JS, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress Bootstrap, Materialize`
 
 #### Databases & Systems
 
@@ -30,7 +30,7 @@ layout: default
 
 `JavaScript, Express, Ajax, jQuery, Axios, PostgreSQL, Materialize`
 
-> Single Page App, a to-do list that smartly grabs the **best** item from your to-do list for you to do today based on who you're with and how much time you have.
+> Single Page App, a to-do list that smartly grabs the _best_ item from your to-do list for you to do today based on who you're with and how much time you have.
 
 <img src="https://media.giphy.com/media/SVfWNGaC3LOu6PVIiN/giphy.gif"
      alt="whattado Example"
@@ -38,7 +38,7 @@ layout: default
 
 ## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler)
 
-`JavaScript, React, Webpack, Babel, Axios, WebSockets, Storybook, Jest, PostgreSQL`
+`JavaScript, ReactJS, Webpack, Babel, Axios, Storybook, Jest, Cypress, PostgreSQL`
 
 > A Single Page React application that allows users to book and cancel interviews.
 
@@ -58,7 +58,7 @@ layout: default
 
 ## TinyApp \|\| [github](https://github.com/togmund/tiny-app)
 
-`JavaScript, Express, Ajax ...`
+`JavaScript, EJS, Express, Node.JS, Bootstrap`
 
 > A multi page site for shortening urls and and sharing those shortened urls with friends.
 
@@ -73,12 +73,6 @@ layout: default
 Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > A Slack bot that manages the administration of a Magic: The Gathering league. It records wins and losses, ranks players by elo, then assigns and tracks 'credits' for each player which can be spent on new cards.
-
-## LightBnB \|\| [github](https://github.com/togmund/lightbnb)
-
-`PostGres, Express, Ajax ...`
-
-> An AirBnB clone with a complex relational database structure.
 
 ---
 
@@ -102,7 +96,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
      alt="Bench Accounting"
      style="width:270px;" />](https://bench.co/)
 
-## [Bench Accounting](https://bench.co/)
+## [Bench Accounting](https://bench.co/) || 2015-2019
 
 `Application Support Team Lead`
 
@@ -121,12 +115,8 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 ---
 
-# **Interests**
+# **Hobbies**
 
-Board Games,
-
-Live Music,
-
-Reading && Writing
+`Board Games, Birds, Books, Basketball, Bar Events (Trivia, Open Mic, Poetry Slams...), Being Outside`
 
 ---
