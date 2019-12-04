@@ -16,7 +16,7 @@ layout: default
 
 #### Frameworks, Libraries, Environments
 
-`ReactJS, Node.JS, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress Bootstrap, Materialize`
+`ReactJS, Node.JS, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize`
 
 #### Databases & Systems
 
