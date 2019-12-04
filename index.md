@@ -3,31 +3,39 @@ layout: default
 ---
 
 # **Contact**
+
 #### [togmund@gmail.com](mailto:togmund@gmail.com) \|\| 604-600-6867 \|\| [LinkedIn](https://ca.linkedin.com/in/ted-ogmundson-1a9b47a)
 
-___
+---
+
 # **Skills**
+
 #### Languages
-```JavaScript, Python, Ruby, HTML, CSS```
+
+`JavaScript, Ruby, Python, HTML, CSS`
 
 #### Frameworks, Libraries, Environments
-```ReactJS, Rails, Node.JS, Jquery, Ajax, Express, Bootstrap, Materialize```
+
+`ReactJS, Node.JS, jQuery, Ajax, Express, Rails, Bootstrap, Materialize`
 
 #### Databases & Systems
-```PostgreSQL, Git```
 
-___
+`PostgreSQL, Git`
+
+---
+
 # **Projects**
+
 ## [whattado](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado)
 
-`JavaScript, Express, Ajax, Axios...`
+`JavaScript, Express, Ajax, jQuery, Axios, PostgreSQL, Materialize`
 
 > Single Page App, a to-do list that smartly grabs the **best** item from your to-do list for you to do today based on who you're with and how much time you have.
 
 <img src="https://media.giphy.com/media/SVfWNGaC3LOu6PVIiN/giphy.gif"
      alt="whattado Example"
      style="width:270px;" />
-  
+
 ## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler)
 
 `JavaScript, React, Webpack, Babel, Axios, WebSockets, Storybook, Jest, PostgreSQL`
@@ -40,12 +48,22 @@ ___
 
 ## Tweeter \|\| [github](https://github.com/togmund/tweeter)
 
-`JavaScript, JQuery, CSS ...`
+`JavaScript, jQuery, Node.JS, Express, CSS`
 
 > Single Page App, a twitter clone, styled with custom CSS.
 
 <img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
      alt="Tweeter Example"
+     style="width:270px;" />
+
+## TinyApp \|\| [github](https://github.com/togmund/tiny-app)
+
+`JavaScript, Express, Ajax ...`
+
+> A multi page site for shortening urls and and sharing those shortened urls with friends.
+
+<img src="https://media.giphy.com/media/ggcUNJqBOlU3bp8Jv5/giphy.gif"
+     alt="TinyApp Example"
      style="width:270px;" />
 
 ## Slack-MTGBot \|\| [github](https://github.com/MikeKlemarewski/slack-gamebot)
@@ -62,54 +80,47 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > An AirBnB clone with a complex relational database structure.
 
-<img src="https://media.giphy.com/media/VgHfARAQqC0pMNWhhN/giphy.gif"
-     alt="Tweeter Example"
-     style="width:270px;" />]
+---
 
-## TinyApp \|\| [github](https://github.com/togmund/tiny-app)
-
-`JavaScript, Express, Ajax ...`
-
-> A multi-page-app for shortening urls and and sharing those shortened urls with friends.
-
-<img src="https://media.giphy.com/media/ggcUNJqBOlU3bp8Jv5/giphy.gif"
-     alt="TinyApp Example"
-     style="width:270px;" />
-
-___
 # **Education**
 
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.webp"
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png"
      alt="Bench Accounting"
      style="width:270px;" />](https://lighthouselabs.ca/)
+
 ## [Lighthouse Labs](https://lighthouselabs.ca/)
 
 `Full Stack Web Development Bootcamp`
 
 > Diploma January 2020
 
-___
+---
+
 # **Work Experience**
 
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.webp"
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.png"
      alt="Bench Accounting"
      style="width:270px;" />](https://bench.co/)
+
 ## [Bench Accounting](https://bench.co/)
 
 `Application Support Team Lead`
+
 > - Created the Team
-> - Developed, improved and automate the systems of providing support for our applications
+> - Developed, improved and automated the systems of providing support for our applications
 > - Advocated to product managers for features and improvements surfaced by users and provide context for departments and integration partners
 > - Set department goals, work with my team to iterate on those goals, and report on the efficacy of our department to provide value to the company
 > - Worked with engineers to identify trends in the inflow of application support work and the root causes of issues to reduce the impact of those problems on our users
 
 `Techincal Analyst`
+
 > - Provided direct and second level support to the users of our applications and websites
 > - Updated documentation for users to self-resolve their issues and provide education for current users
 > - Took part in Hackathons, writing scripts in languages such as Python & SQL and designing applications as proofs of concept
 > - Rigorously diagnosed and documented issues in the logic and function of our applications written in a variety of languages, such as Scala & JavaScript
 
-___
+---
+
 # **Interests**
 
 Board Games,
@@ -118,4 +129,4 @@ Live Music,
 
 Reading && Writing
 
-___
+---
