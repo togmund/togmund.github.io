@@ -4,7 +4,7 @@ layout: default
 
 # **Contact**
 
-#### [togmund@gmail.com](mailto:togmund@gmail.com) \|\| 604-600-6867 \|\| [LinkedIn](https://ca.linkedin.com/in/ted-ogmundson-1a9b47a)
+#### [togmund@gmail.com](mailto:togmund@gmail.com) \|\| 604-600-6867 \|\| [LinkedIn](https://ca.linkedin.com/in/togmund)
 
 ---
 
@@ -106,7 +106,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 > - Set department goals, work with my team to iterate on those goals, and report on the efficacy of our department to provide value to the company
 > - Worked with engineers to identify trends in the inflow of application support work and the root causes of issues to reduce the impact of those problems on our users
 
-`Techincal Analyst`
+`Technical Analyst`
 
 > - Provided direct and second level support to the users of our applications and websites
 > - Updated documentation for users to self-resolve their issues and provide education for current users
