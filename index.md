@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<!--- TODO:
+     - Add Python Project
+     - Codecademy to Education?
+     - Diploma && Remove the word Bootcamp
+     - Technical Analyst Spelling Mistake
+     - Month and Year on all projects, education && experience
+     - past tense on Set Deparment Goals bullet
+     - Collaborated with engineers
+     - Greater distinction between sections, titles, and content
+     - "I'm"
+     - Frenetic alternatvie word choices (Vibrant, Energetic, Controlled Chaos)
+     - More History in the summary, borrow the story approach
+ --->
+
 # **Contact**
 
 #### [togmund@gmail.com](mailto:togmund@gmail.com) \|\| 604-600-6867 \|\| [LinkedIn](https://ca.linkedin.com/in/togmund)
@@ -12,7 +26,7 @@ layout: default
 
 #### Languages
 
-`JavaScript, Ruby, Python, HTML, CSS`
+`JavaScript, Ruby, Python, SQL, HTML, CSS`
 
 #### Frameworks, Libraries, Environments
 
