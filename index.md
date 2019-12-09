@@ -2,20 +2,6 @@
 layout: default
 ---
 
-<!--- TODO:
-     - Add Python Project
-     - Codecademy to Education?
-     - Diploma && Remove the word Bootcamp
-     - Technical Analyst Spelling Mistake
-     - Month and Year on all projects, education && experience
-     - past tense on Set Deparment Goals bullet
-     - Collaborated with engineers
-     - Greater distinction between sections, titles, and content
-     - "I'm"
-     - Frenetic alternatvie word choices (Vibrant, Energetic, Controlled Chaos)
-     - More History in the summary, borrow the story approach
- --->
-
 # **Contact**
 
 #### [togmund@gmail.com](mailto:togmund@gmail.com) \|\| 604-600-6867 \|\| [LinkedIn](https://ca.linkedin.com/in/togmund)
@@ -26,7 +12,7 @@ layout: default
 
 #### Languages
 
-`JavaScript, Ruby, Python, SQL, HTML, CSS`
+`JavaScript, Ruby, SQL, HTML, CSS`
 
 #### Frameworks, Libraries, Environments
 
@@ -40,7 +26,7 @@ layout: default
 
 # **Projects**
 
-## [whattado](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado)
+## [whattado](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado) \|\| Nov 2019
 
 `JavaScript, Express, Ajax, jQuery, Axios, PostgreSQL, Materialize`
 
@@ -50,7 +36,7 @@ layout: default
      alt="whattado Example"
      style="width:270px;" />
 
-## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler)
+## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler) \|\| Dec 2019
 
 `JavaScript, ReactJS, Webpack, Babel, Axios, Storybook, Jest, Cypress, PostgreSQL`
 
@@ -60,7 +46,7 @@ layout: default
      alt="InterviewScheduler Example"
      style="width:270px;" />
 
-## Tweeter \|\| [github](https://github.com/togmund/tweeter)
+## Tweeter \|\| [github](https://github.com/togmund/tweeter) \|\| Nov 2019
 
 `JavaScript, jQuery, Node.JS, Express, CSS`
 
@@ -70,7 +56,7 @@ layout: default
      alt="Tweeter Example"
      style="width:270px;" />
 
-## TinyApp \|\| [github](https://github.com/togmund/tiny-app)
+## TinyApp \|\| [github](https://github.com/togmund/tiny-app) \|\| Nov 2019
 
 `JavaScript, EJS, Express, Node.JS, Bootstrap`
 
@@ -80,7 +66,7 @@ layout: default
      alt="TinyApp Example"
      style="width:270px;" />
 
-## Slack-MTGBot \|\| [github](https://github.com/MikeKlemarewski/slack-gamebot)
+## Slack-MTGBot \|\| [github](https://github.com/MikeKlemarewski/slack-gamebot) \|\| Dec 2016
 
 `Ruby, Slack`
 
@@ -96,9 +82,9 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
      alt="Bench Accounting"
      style="width:270px;" />](https://lighthouselabs.ca/)
 
-## [Lighthouse Labs](https://lighthouselabs.ca/)
+## [Lighthouse Labs](https://lighthouselabs.ca/) \|\| Oct 2019 to Jan 2020
 
-`Full Stack Web Development Bootcamp`
+`Full Stack Web Development`
 
 > Diploma January 2020
 
@@ -110,14 +96,14 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
      alt="Bench Accounting"
      style="width:270px;" />](https://bench.co/)
 
-## [Bench Accounting](https://bench.co/) || 2015-2019
+## [Bench Accounting](https://bench.co/) \|\| Nov 2015 to Sep 2019
 
 `Application Support Team Lead`
 
 > - Created the Team
 > - Developed, improved and automated the systems of providing support for our applications
 > - Advocated to product managers for features and improvements surfaced by users and provide context for departments and integration partners
-> - Set department goals, work with my team to iterate on those goals, and report on the efficacy of our department to provide value to the company
+> - Set department goals, worked with my team to iterate on those goals, and reported on the efficacy of our department to provide value to the company
 > - Worked with engineers to identify trends in the inflow of application support work and the root causes of issues to reduce the impact of those problems on our users
 
 `Technical Analyst`
