@@ -16,15 +16,15 @@ layout: default
 
 #### Frameworks, Libraries, Environments
 
-`ReactJS, Node.JS, Phoenix, Rails, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize, Rebass, Websockets`
+`ReactJS, Node.JS, Phoenix, Ecto, Rails, ActiveRecord, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize, Rebass, Websockets`
 
 #### Databases & Systems
 
 `PostgreSQL, Git`
 
-#### APIs & Tools
+#### Tools & APIs
 
-`JIRA, Stripe, Spotify`
+`JIRA, Splunk, BrowserStack, Stripe, Spotify`
 
 ---
 
@@ -44,7 +44,7 @@ layout: default
 
 `Ruby, Rails, PostgreSQL`
 
-> A mini e-commerce application built with Rails.
+> A mini e-commerce application built with Rails which processes payments through Stripe.
 
 <!-- <img src="https://s3-us-west-2.amazonaws.com/reactv2/figures/9efcde3d-fc2b-4b07-a5d8-27165716f517.gif"
      alt="InterviewScheduler Example"
