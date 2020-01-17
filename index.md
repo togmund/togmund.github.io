@@ -42,7 +42,7 @@ layout: default
 
 ## Jungle \|\| [github](https://github.com/togmund/jungle-rails) \|\| Dec 2019
 
-`Ruby, Rails, PostgreSQL`
+`Ruby, Rails, ActiveRecord, Stripe, PostgreSQL`
 
 > A mini e-commerce application built with Rails which processes payments through Stripe.
 
