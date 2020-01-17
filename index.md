@@ -12,29 +12,43 @@ layout: default
 
 #### Languages
 
-`JavaScript, Ruby, SQL, HTML, CSS`
+`JavaScript, TypeScript, Elixir, Ruby, SQL, HTML, CSS`
 
 #### Frameworks, Libraries, Environments
 
-`ReactJS, Node.JS, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize`
+`ReactJS, Node.JS, Phoenix, Rails, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize, Rebass, Websockets`
 
 #### Databases & Systems
 
 `PostgreSQL, Git`
 
+#### APIs & Tools
+
+`JIRA, Stripe, Spotify`
+
 ---
 
 # **Projects**
 
-## [whattado](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado) \|\| Nov 2019
+## Hexen \|\| [github](https://github.com/togmund/hexen) \|\| Jan 2019
 
-`JavaScript, Express, Ajax, jQuery, Axios, PostgreSQL, Materialize`
+`TypeScript, React, Elixir, Phoenix, Websockets, Rebass, PostgreSQL`
 
-> Single Page App, a to-do list that smartly grabs the _best_ item from your to-do list for you to do today based on who you're with and how much time you have.
+> Hexen is an online, multiplayer, deck-building, role-playing game.
 
-<img src="https://media.giphy.com/media/SVfWNGaC3LOu6PVIiN/giphy.gif"
-     alt="whattado Example"
-     style="width:270px;" />
+<!-- <img src="https://s3-us-west-2.amazonaws.com/reactv2/figures/9efcde3d-fc2b-4b07-a5d8-27165716f517.gif"
+     alt="InterviewScheduler Example"
+     style="width:270px;" /> -->
+
+## Jungle \|\| [github](https://github.com/togmund/jungle-rails) \|\| Dec 2019
+
+`Ruby, Rails, PostgreSQL`
+
+> A mini e-commerce application built with Rails.
+
+<!-- <img src="https://s3-us-west-2.amazonaws.com/reactv2/figures/9efcde3d-fc2b-4b07-a5d8-27165716f517.gif"
+     alt="InterviewScheduler Example"
+     style="width:270px;" /> -->
 
 ## InterviewScheduler \|\| [github](https://github.com/togmund/scheduler) \|\| Dec 2019
 
@@ -44,6 +58,16 @@ layout: default
 
 <img src="https://s3-us-west-2.amazonaws.com/reactv2/figures/9efcde3d-fc2b-4b07-a5d8-27165716f517.gif"
      alt="InterviewScheduler Example"
+     style="width:270px;" />
+
+## [whattado](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado) \|\| Nov 2019
+
+`JavaScript, Express, Ajax, jQuery, Axios, PostgreSQL, Materialize, Heroku`
+
+> Single Page App, a to-do list that smartly grabs the _best_ item from your to-do list for you to do today based on who you're with and how much time you have.
+
+<img src="https://media.giphy.com/media/SVfWNGaC3LOu6PVIiN/giphy.gif"
+     alt="whattado Example"
      style="width:270px;" />
 
 ## Tweeter \|\| [github](https://github.com/togmund/tweeter) \|\| Nov 2019
