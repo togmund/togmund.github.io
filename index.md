@@ -34,7 +34,7 @@ layout: default
 
 `TypeScript, React, Elixir, Phoenix, Websockets, Rebass, PostgreSQL`
 
-> Hexen is an online, multiplayer, deck-building, role-playing game.
+> Hexen is an online, multiplayer, deck-building, role-playing game where each tile on the map is powered by it's own virtual machine.
 
 <img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/Hexen.png"
      alt="Hexen Example"
