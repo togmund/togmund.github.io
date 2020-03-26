@@ -104,7 +104,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png"
      alt="Bench Accounting"
-     style="width:270px;" />](https://lighthouselabs.ca/)
+     style="height:56.3px;" />](https://lighthouselabs.ca/)
 
 ## [Lighthouse Labs](https://lighthouselabs.ca/) \|\| Oct 2019 to Jan 2020
 
@@ -116,9 +116,9 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 # **Work Experience**
 
-[<img src=""
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/swerve.png"
      alt="Swerve Labs"
-     style="width:270px;" />](http://swervelabs.ca/)
+     style="height:56.3px;" />](http://swervelabs.ca/)
 
 ## [Swerve Labs](https://http://swervelabs.ca/) \|\| Feb 2020 to Now
 
@@ -130,7 +130,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.png"
      alt="Bench Accounting"
-     style="width:270px;" />](https://bench.co/)
+     style="height:56.3px;" />](https://bench.co/)
 
 ## [Bench Accounting](https://bench.co/) \|\| Nov 2015 to Sep 2019
 
