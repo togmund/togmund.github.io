@@ -16,15 +16,15 @@ layout: default
 
 #### Frameworks, Libraries, Environments
 
-`ReactJS, Node.JS, Phoenix, Ecto, Rails, ActiveRecord, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize, Rebass, Websockets`
+`ReactJS, React Native, Node.JS, Phoenix, Ecto, Rails, ActiveRecord, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize, Rebass, Websockets, Expo, TestFlight`
 
 #### Databases & Systems
 
-`PostgreSQL, Git`
+`PostgreSQL, Git, Heroku, AWS Route53`
 
 #### Tools & APIs
 
-`JIRA, Splunk, BrowserStack, Stripe, Spotify`
+`JIRA, Splunk, BrowserStack, Stripe, Spotify, Twilio`
 
 ---
 
@@ -115,6 +115,18 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 ---
 
 # **Work Experience**
+
+[<img src=""
+     alt="Swerve Labs"
+     style="width:270px;" />](http://swervelabs.ca/)
+
+## [Swerve Labs](https://http://swervelabs.ca/) \|\| Feb 2020 to Now
+
+`Software Developer - Contract`
+
+> - Built a React Native prototype application for the purpose of research user acceptance testing
+> - Integrated a third-party API into the Ruby on Rails Back-End
+> - Deployed to TestFlight and to Heroku on AWS Route53
 
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.png"
      alt="Bench Accounting"
