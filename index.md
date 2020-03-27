@@ -124,7 +124,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 `Software Developer - Contract`
 
-> - Built a React Native prototype application for the purpose of research user acceptance testing
+> - Built a React Native prototype application for the purpose of research and user acceptance testing
 > - Integrated a third-party API into the Ruby on Rails Back-End
 > - Deployed to TestFlight and to Heroku on AWS Route53
 
