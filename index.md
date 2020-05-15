@@ -36,7 +36,7 @@ layout: default
 
 > An aquarium of squiggles. A sort of server-side animation delivered with Phoenix LiveView.
 
-<img src=""
+<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/Screen%20Shot%202020-05-14%20at%205.37.53%20PM.png"
      alt="Squiggles Example"
      style="width:270px;" />
 
