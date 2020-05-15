@@ -30,6 +30,16 @@ layout: default
 
 # **Projects**
 
+## Ted's Strange Squiggles \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
+
+`Elixir, Phoenix, LiveView, Websockets`
+
+> An aquarium of squiggles. A sort of server-side animation delivered with Phoenix LiveView.
+
+<img src=""
+     alt="Squiggles Example"
+     style="width:270px;" />
+
 ## Hexen \|\| [github](https://github.com/togmund/hexen) \|\| Jan 2019
 
 `TypeScript, React, Elixir, Phoenix, Websockets, Rebass, PostgreSQL`
