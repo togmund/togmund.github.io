@@ -30,7 +30,7 @@ layout: default
 
 # **Projects**
 
-## Ted's Strange Squiggles \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
+## [Ted's Strange Squiggles](https://teds-strange-squiggles.herokuapp.com/) \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
 
 `Elixir, Phoenix, LiveView, Websockets`
 
