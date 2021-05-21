@@ -30,7 +30,7 @@ layout: default
 
 # **Projects**
 
-## [Ted's Strange Squiggles](https://teds-strange-squiggles.herokuapp.com/) \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
+## [Ted's Strange Squiggles](http://squiggles.togmund.com/) \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
 
 `Elixir, Phoenix, LiveView, Websockets`
 
@@ -126,11 +126,26 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 # **Work Experience**
 
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/autotelic.png"
+     alt="Autotelic"
+     style="height:56.3px;" />](https://autotelic.com/)
+
+## [Autotelic](https://autotelic.com/) \|\| May 2020 to Now
+
+`Full Stack Developer`
+
+> - Architect, build and maintain APIs on Node with Fastify and Web Workers using Cloudflare Workers
+> - Manage the CI/CD of services through pipelines such as CircleCI, Github Actions, Jenkins and Google Cloud Run
+> - Configure and deploy services with tools such as Terraform to platforms such as AWS, Openshift, Google Cloud Platform and Heroku
+> - Build custom sites for ecommerce businesses
+> - Work with clients and product owners to scope solutions, manage project progress, and integrate tools
+> - Maintain Open Source libraries and contribute to existing Open Source projects
+
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/swerve.png"
      alt="Swerve Labs"
      style="height:56.3px;" />](http://swervelabs.ca/)
 
-## [Swerve Labs](https://http://swervelabs.ca/) \|\| Feb 2020 to Now
+## [Swerve Labs](https://swervelabs.ca/) \|\| Feb 2020 to Mar 2020
 
 `Software Developer - Contract`
 
