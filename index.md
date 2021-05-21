@@ -178,6 +178,6 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 # **Hobbies**
 
-`Board Games, Birds, Books, Basketball, Bar Events (Trivia, Open Mic, Poetry Slams...), Being Outside`
+`Board Games, Birds, Books, Basketball, Bar Events (Trivia, Open Mic, Poetry Slams...), Being Outside with my Boston Terrier`
 
 ---
