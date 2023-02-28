@@ -12,11 +12,11 @@ layout: default
 
 #### Languages
 
-`JavaScript, TypeScript, Elixir, Ruby, SQL, HTML, CSS`
+`TypeScript, JavaScript, Ruby, Elixir, SQL, HTML, CSS`
 
 #### Frameworks, Libraries, Environments
 
-`ReactJS, React Native, Node.JS, Phoenix, Ecto, Rails, ActiveRecord, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize, Rebass, Websockets, Expo, TestFlight`
+`React, React Native, Node.JS, Phoenix, Ecto, Rails, ActiveRecord, jQuery, Ajax, Axios, Webpack, Babel, EJS, Express, Storybook, Jest, Cypress, Bootstrap, Materialize, Rebass, Websockets, Expo, TestFlight`
 
 #### Databases & Systems
 
@@ -29,6 +29,8 @@ layout: default
 ---
 
 # **Projects**
+
+<details>
 
 ## [Ted's Strange Squiggles](http://squiggles.togmund.com/) \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
 
@@ -110,6 +112,8 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 ---
 
+</details>
+
 # **Education**
 
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png"
@@ -126,11 +130,21 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 # **Work Experience**
 
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/dooly.svg"
+     alt="Dooly"
+     style="height:56.3px;" />](https://autotelic.com/)
+
+## [Autotelic](https://dooly.ai/) \|\| Sep 2021 to Now
+
+`Software Engineer`
+
+> - TODO
+
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/autotelic.png"
      alt="Autotelic"
      style="height:56.3px;" />](https://autotelic.com/)
 
-## [Autotelic](https://autotelic.com/) \|\| May 2020 to Now
+## [Autotelic](https://autotelic.com/) \|\| May 2020 to Aug 2021
 
 `Full Stack Developer`
 
