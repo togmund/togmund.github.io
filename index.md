@@ -136,9 +136,14 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 ## [Autotelic](https://dooly.ai/) \|\| Sep 2021 to Now
 
-`Software Engineer`
+`Software Engineer I`
 
-> - TODO
+> - Ship features for a React Single Page Application such as:
+> - Tools for creating high-quality sales notes, extracting unstructured data for use in structured systems, and presenting sales data to different stakeholders
+> - Connect and enrich sales data to and from services such as Salesforce, Google, Outlook, Gong, Slack and OpenAI through our Ruby on Rails backend
+> - Extend the Dooly experience to different interfaces with a Chrome Extension and an Electron app
+> - Improve and automate internal processes with tools such as a CLI, Storybook, CircleCI
+> - Work collaboratively across teams, with departments and customers
 
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/autotelic.png"
      alt="Autotelic"
@@ -148,12 +153,12 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 `Full Stack Developer`
 
-> - Architect, build and maintain APIs on Node with Fastify and Web Workers using Cloudflare Workers
-> - Manage the CI/CD of services through pipelines such as CircleCI, Github Actions, Jenkins and Google Cloud Run
-> - Configure and deploy services with tools such as Terraform to platforms such as AWS, Openshift, Google Cloud Platform and Heroku
-> - Build custom sites for ecommerce businesses
-> - Work with clients and product owners to scope solutions, manage project progress, and integrate tools
-> - Maintain Open Source libraries and contribute to existing Open Source projects
+> - Architected, built and maintained APIs on Node with Fastify and Web Workers using Cloudflare Workers
+> - Managed the CI/CD of services through pipelines such as CircleCI, Github Actions, Jenkins and Google Cloud Run
+> - Configured and deployed services with tools such as Terraform to platforms such as AWS, Openshift, Google Cloud Platform and Heroku
+> - Built custom sites for ecommerce businesses
+> - Worked with clients and product owners to scope solutions, manage project progress, and integrate tools
+> - Maintained Open Source libraries and contributed to existing Open Source projects
 
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/swerve.png"
      alt="Swerve Labs"
