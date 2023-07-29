@@ -134,8 +134,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 `Software Engineer I`
 
-> - Ship features for a React Single Page Application such as:
-> - Tools for creating high-quality sales notes, extracting unstructured data for use in structured systems, and presenting sales data to different stakeholders
+> - Ship features for a React Single Page Application such as tools for creating high-quality sales notes, extracting unstructured data for use in structured systems, and presenting sales data to different stakeholders
 > - Connect and enrich sales data to and from services such as Salesforce, Google, Outlook, Gong, Slack and OpenAI through our Ruby on Rails backend
 > - Extend the Dooly experience to different interfaces with a Chrome Extension and an Electron app
 > - Improve and automate internal processes with tools such as a CLI, Storybook, CircleCI
