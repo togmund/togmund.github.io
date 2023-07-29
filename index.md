@@ -134,7 +134,7 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
      alt="Dooly"
      style="height:56.3px;" />](https://autotelic.com/)
 
-## [Autotelic](https://dooly.ai/) \|\| Sep 2021 to Now
+## [Dooly](https://dooly.ai/) \|\| Sep 2021 to Now
 
 `Software Engineer I`
 
