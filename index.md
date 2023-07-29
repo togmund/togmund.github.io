@@ -30,8 +30,6 @@ layout: default
 
 # **Projects**
 
-<details>
-
 ## [Ted's Strange Squiggles](http://squiggles.togmund.com/) \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
 
 `Elixir, Phoenix, LiveView, Websockets`
@@ -111,8 +109,6 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 > A Slack bot that manages the administration of a Magic: The Gathering league. It records wins and losses, ranks players by elo, then assigns and tracks 'credits' for each player which can be spent on new cards.
 
 ---
-
-</details>
 
 # **Education**
 
