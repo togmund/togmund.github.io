@@ -8,6 +8,86 @@ layout: default
 
 ---
 
+# **Education**
+
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png"
+     alt="Bench Accounting"
+     style="height:56.3px;" />](https://lighthouselabs.ca/)
+
+## [Lighthouse Labs](https://lighthouselabs.ca/) \|\| Oct 2019 to Jan 2020
+
+`Full Stack Web Development`
+
+> Diploma January 2020
+
+---
+
+# **Work Experience**
+
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/dooly.svg"
+     alt="Dooly"
+     style="height:56.3px;" />](https://autotelic.com/)
+
+## [Dooly](https://dooly.ai/) \|\| Sep 2021 to Apr 2024
+
+`Software Engineer I`
+
+> - Shipped features for a React Single Page Application such as tools for creating high-quality sales notes, extracting unstructured data for use in structured systems, and presenting sales data to different stakeholders
+> - Connected and enriched sales data to and from services such as Salesforce, Google, Outlook, Gong, Slack and OpenAI through our Ruby on Rails backend
+> - Extended the Dooly experience to different interfaces with a Chrome Extension and an Electron app
+> - Improved and automated internal processes with tools such as a CLI, Storybook, CircleCI
+> - Worked collaboratively across teams, with departments and customers
+
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/autotelic.png"
+     alt="Autotelic"
+     style="height:56.3px;" />](https://autotelic.com/)
+
+## [Autotelic](https://autotelic.com/) \|\| May 2020 to Aug 2021
+
+`Full Stack Developer`
+
+> - Architected, built and maintained APIs on Node with Fastify and Web Workers using Cloudflare Workers
+> - Managed the CI/CD of services through pipelines such as CircleCI, Github Actions, Jenkins and Google Cloud Run
+> - Configured and deployed services with tools such as Terraform to platforms such as AWS, Openshift, Google Cloud Platform and Heroku
+> - Built custom sites for ecommerce businesses
+> - Worked with clients and product owners to scope solutions, manage project progress, and integrate tools
+> - Maintained Open Source libraries and contributed to existing Open Source projects
+
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/swerve.png"
+     alt="Swerve Labs"
+     style="height:56.3px;" />](http://swervelabs.ca/)
+
+## [Swerve Labs](https://swervelabs.ca/) \|\| Feb 2020 to Mar 2020
+
+`Software Developer - Contract`
+
+> - Built a React Native prototype application for the purpose of research and user acceptance testing
+> - Integrated a third-party API into the Ruby on Rails Back-End
+> - Deployed to TestFlight and to Heroku on AWS Route53
+
+[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.png"
+     alt="Bench Accounting"
+     style="height:56.3px;" />](https://bench.co/)
+
+## [Bench Accounting](https://bench.co/) \|\| Nov 2015 to Sep 2019
+
+`Application Support Team Lead`
+
+> - Created the Team
+> - Developed, improved and automated the systems of providing support for our applications
+> - Advocated to product managers for features and improvements surfaced by users and provide context for departments and integration partners
+> - Set department goals, worked with my team to iterate on those goals, and reported on the efficacy of our department to provide value to the company
+> - Worked with engineers to identify trends in the inflow of application support work and the root causes of issues to reduce the impact of those problems on our users
+
+`Technical Analyst`
+
+> - Provided direct and second level support to the users of our applications and websites
+> - Updated documentation for users to self-resolve their issues and provide education for current users
+> - Took part in Hackathons, writing scripts in languages such as Python & SQL and designing applications as proofs of concept
+> - Rigorously diagnosed and documented issues in the logic and function of our applications written in a variety of languages, such as Scala & JavaScript
+
+---
+
 # **Skills**
 
 #### Languages
@@ -107,86 +187,6 @@ layout: default
 Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
 
 > A Slack bot that manages the administration of a Magic: The Gathering league. It records wins and losses, ranks players by elo, then assigns and tracks 'credits' for each player which can be spent on new cards.
-
----
-
-# **Education**
-
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/lighthouse-labs-logo.png"
-     alt="Bench Accounting"
-     style="height:56.3px;" />](https://lighthouselabs.ca/)
-
-## [Lighthouse Labs](https://lighthouselabs.ca/) \|\| Oct 2019 to Jan 2020
-
-`Full Stack Web Development`
-
-> Diploma January 2020
-
----
-
-# **Work Experience**
-
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/dooly.svg"
-     alt="Dooly"
-     style="height:56.3px;" />](https://autotelic.com/)
-
-## [Dooly](https://dooly.ai/) \|\| Sep 2021 to Apr 2024
-
-`Software Engineer I`
-
-> - Shipped features for a React Single Page Application such as tools for creating high-quality sales notes, extracting unstructured data for use in structured systems, and presenting sales data to different stakeholders
-> - Connected and enriched sales data to and from services such as Salesforce, Google, Outlook, Gong, Slack and OpenAI through our Ruby on Rails backend
-> - Extended the Dooly experience to different interfaces with a Chrome Extension and an Electron app
-> - Improved and automated internal processes with tools such as a CLI, Storybook, CircleCI
-> - Worked collaboratively across teams, with departments and customers
-
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/autotelic.png"
-     alt="Autotelic"
-     style="height:56.3px;" />](https://autotelic.com/)
-
-## [Autotelic](https://autotelic.com/) \|\| May 2020 to Aug 2021
-
-`Full Stack Developer`
-
-> - Architected, built and maintained APIs on Node with Fastify and Web Workers using Cloudflare Workers
-> - Managed the CI/CD of services through pipelines such as CircleCI, Github Actions, Jenkins and Google Cloud Run
-> - Configured and deployed services with tools such as Terraform to platforms such as AWS, Openshift, Google Cloud Platform and Heroku
-> - Built custom sites for ecommerce businesses
-> - Worked with clients and product owners to scope solutions, manage project progress, and integrate tools
-> - Maintained Open Source libraries and contributed to existing Open Source projects
-
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/swerve.png"
-     alt="Swerve Labs"
-     style="height:56.3px;" />](http://swervelabs.ca/)
-
-## [Swerve Labs](https://swervelabs.ca/) \|\| Feb 2020 to Mar 2020
-
-`Software Developer - Contract`
-
-> - Built a React Native prototype application for the purpose of research and user acceptance testing
-> - Integrated a third-party API into the Ruby on Rails Back-End
-> - Deployed to TestFlight and to Heroku on AWS Route53
-
-[<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/bench-logo.png"
-     alt="Bench Accounting"
-     style="height:56.3px;" />](https://bench.co/)
-
-## [Bench Accounting](https://bench.co/) \|\| Nov 2015 to Sep 2019
-
-`Application Support Team Lead`
-
-> - Created the Team
-> - Developed, improved and automated the systems of providing support for our applications
-> - Advocated to product managers for features and improvements surfaced by users and provide context for departments and integration partners
-> - Set department goals, worked with my team to iterate on those goals, and reported on the efficacy of our department to provide value to the company
-> - Worked with engineers to identify trends in the inflow of application support work and the root causes of issues to reduce the impact of those problems on our users
-
-`Technical Analyst`
-
-> - Provided direct and second level support to the users of our applications and websites
-> - Updated documentation for users to self-resolve their issues and provide education for current users
-> - Took part in Hackathons, writing scripts in languages such as Python & SQL and designing applications as proofs of concept
-> - Rigorously diagnosed and documented issues in the logic and function of our applications written in a variety of languages, such as Scala & JavaScript
 
 ---
 
