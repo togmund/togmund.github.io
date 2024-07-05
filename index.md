@@ -30,7 +30,7 @@ layout: default
 
 # **Projects**
 
-## [Ted's Strange Squiggles](http://squiggles.togmund.com/) \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
+## Ted's Strange Squiggles \|\| [github](https://github.com/togmund/rgb_game) \|\| May 2020
 
 `Elixir, Phoenix, LiveView, Websockets`
 
@@ -70,7 +70,7 @@ layout: default
      alt="InterviewScheduler Example"
      style="width:270px;" />
 
-## [whattado](https://lhl-whattado.herokuapp.com/) \|\| [github](https://github.com/togmund/whattado) \|\| Nov 2019
+## whattado\|\| [github](https://github.com/togmund/whattado) \|\| Nov 2019
 
 `JavaScript, Express, Ajax, jQuery, Axios, PostgreSQL, Materialize, Heroku`
 
@@ -130,15 +130,15 @@ Forked from [slack-gamebot](https://github.com/dblock/slack-gamebot)
      alt="Dooly"
      style="height:56.3px;" />](https://autotelic.com/)
 
-## [Dooly](https://dooly.ai/) \|\| Sep 2021 to Now
+## [Dooly](https://dooly.ai/) \|\| Sep 2021 to Apr 2024
 
 `Software Engineer I`
 
-> - Ship features for a React Single Page Application such as tools for creating high-quality sales notes, extracting unstructured data for use in structured systems, and presenting sales data to different stakeholders
-> - Connect and enrich sales data to and from services such as Salesforce, Google, Outlook, Gong, Slack and OpenAI through our Ruby on Rails backend
-> - Extend the Dooly experience to different interfaces with a Chrome Extension and an Electron app
-> - Improve and automate internal processes with tools such as a CLI, Storybook, CircleCI
-> - Work collaboratively across teams, with departments and customers
+> - Shipped features for a React Single Page Application such as tools for creating high-quality sales notes, extracting unstructured data for use in structured systems, and presenting sales data to different stakeholders
+> - Connected and enriched sales data to and from services such as Salesforce, Google, Outlook, Gong, Slack and OpenAI through our Ruby on Rails backend
+> - Extended the Dooly experience to different interfaces with a Chrome Extension and an Electron app
+> - Improved and automated internal processes with tools such as a CLI, Storybook, CircleCI
+> - Worked collaboratively across teams, with departments and customers
 
 [<img src="https://raw.githubusercontent.com/togmund/togmund.github.io/master/images/autotelic.png"
      alt="Autotelic"
