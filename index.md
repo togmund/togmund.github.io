@@ -146,10 +146,6 @@ layout: default
 
 > A Single Page React application that allows users to book and cancel interviews.
 
-<img src="https://s3-us-west-2.amazonaws.com/reactv2/figures/9efcde3d-fc2b-4b07-a5d8-27165716f517.gif"
-     alt="InterviewScheduler Example"
-     style="width:270px;" />
-
 ## whattado\|\| [github](https://github.com/togmund/whattado) \|\| Nov 2019
 
 `JavaScript, Express, Ajax, jQuery, Axios, PostgreSQL, Materialize, Heroku`
